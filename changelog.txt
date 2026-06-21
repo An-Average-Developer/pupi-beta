@@ -1,2 +1,2 @@
-2.0.1
+2.0.2
 - Fixed some errors with the rename of the app
